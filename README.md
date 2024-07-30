@@ -1,4 +1,4 @@
-# Lending Club Loan Repayment Prediction
+# 💵Lending Club Loan Repayment Prediction
 ---
 This project explores publicly available data from LendingClub.com, which connects borrowers with investors. The goal is to create a model to predict whether a borrower will repay their loan in full.
 
